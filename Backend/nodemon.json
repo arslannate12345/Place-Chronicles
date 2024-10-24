@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "arslan",
+        "DB_PASSWORD" : "arslannate12345",
+        "DB_NAME" : "mern",
+        "JWT_KEY" : "SUPERSECRET_DON'T_SHARE"
+    }
+} 
